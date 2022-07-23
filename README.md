@@ -1,2 +1,2 @@
 # FRC2018
-2018 Team 7016 PV Shockbots Code
+The following code is the code that was used for the 2018 FRC competition, for team 7016, PV Shockbots. Our mechanism involved using an extra wide chasis, inflatable whelels, and a mechanism consisting of flex wheels that were attached to axels that would be able to launch the boxes into the containers. Our robot featured both autonomous and teloperated controls that worked in tandem with the FRC control station. 
